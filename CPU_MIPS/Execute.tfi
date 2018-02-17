@@ -1,0 +1,23 @@
+
+
+
+// Instantiate the module
+Execute instance_name (
+    .ins1(ins1), 
+    .ins2(ins2), 
+    .signEX(signEX), 
+    .regDst(regDst), 
+    .alusrc(alusrc), 
+    .rd1(rd1), 
+    .rd2(rd2), 
+    .aluOP(aluOP), 
+    .adderFetch(adderFetch), 
+    .clk(clk), 
+    .addres(addres), 
+    .alures(alures), 
+    .aluZero(aluZero), 
+    .readData2(readData2), 
+    .instruction(instruction)
+    );
+
+

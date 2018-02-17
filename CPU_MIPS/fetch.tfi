@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+fetch instance_name (
+    .pcsrc(pcsrc), 
+    .mux1(mux1), 
+    .clk(clk), 
+    .adderOutput(adderOutput), 
+    .instruction(instruction)
+    );
+
+

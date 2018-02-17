@@ -1,0 +1,12 @@
+ISim log file
+Running: C:\Users\ASUS\Desktop\My Project\CPU - computerArtituchtoreLab\CPU MIPS\testMain_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/testMain_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+file          0: 00000010001100101000000000000001
+file          1: 00000001011011010100000000000011
+Finished circuit initialization process.

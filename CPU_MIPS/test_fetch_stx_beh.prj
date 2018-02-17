@@ -1,0 +1,3 @@
+verilog isim_temp "fetch.v"
+verilog isim_temp "test_fetch.v"
+verilog isim_temp "D:/setup_xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

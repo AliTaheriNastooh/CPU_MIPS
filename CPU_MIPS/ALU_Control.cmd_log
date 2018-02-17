@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj session1 -o E:/az_computer_arcituctukre/session1/ALU_Control.tfi -lib work E:/az_computer_arcituctukre/session1//ALU_Control.v -module ALU_Control -template D:/setup_xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

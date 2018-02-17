@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+writeBackPipe instance_name (
+    .rd(rd), 
+    .address(address), 
+    .memtoreg(memtoreg), 
+    .writeBack(writeBack)
+    );
+
+

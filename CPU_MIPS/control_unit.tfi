@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+control_unit instance_name (
+    .opcode(opcode), 
+    .wb(wb), 
+    .M(M), 
+    .Ex(Ex)
+    );
+
+

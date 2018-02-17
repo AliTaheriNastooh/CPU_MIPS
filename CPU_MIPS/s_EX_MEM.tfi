@@ -1,0 +1,23 @@
+
+
+
+// Instantiate the module
+s_EX_MEM instance_name (
+    .ctlwb_out(ctlwb_out), 
+    .ctlm_out(ctlm_out), 
+    .adder_out(adder_out), 
+    .aluzero(aluzero), 
+    .aluout(aluout), 
+    .readdat2(readdat2), 
+    .muxout(muxout), 
+    .clk(clk), 
+    .wb_ctlout(wb_ctlout), 
+    .m_ctlout(m_ctlout), 
+    .add_result(add_result), 
+    .zero(zero), 
+    .alu_result(alu_result), 
+    .rdata2out(rdata2out), 
+    .five_bit_muxout(five_bit_muxout)
+    );
+
+

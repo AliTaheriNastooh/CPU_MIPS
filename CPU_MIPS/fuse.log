@@ -1,0 +1,65 @@
+Running: D:\setup_xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/testMain_isim_beh.exe -prj C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/testMain_beh.prj work.testMain work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/ALU_Control.v" into library work
+Analyzing Verilog file "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/ALU.v" into library work
+Analyzing Verilog file "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/writeBackPipe.v" into library work
+Analyzing Verilog file "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/s_MEM_WB.v" into library work
+Analyzing Verilog file "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/s_IF_ID.v" into library work
+Analyzing Verilog file "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/s_ID_EX.v" into library work
+Analyzing Verilog file "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/s_EX_MEM.v" into library work
+Analyzing Verilog file "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/fetch.v" into library work
+Analyzing Verilog file "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/Execute.v" into library work
+Analyzing Verilog file "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/decode.v" into library work
+Analyzing Verilog file "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/DataMemoryPipline.v" into library work
+Analyzing Verilog file "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" into library work
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 32: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 34: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 37: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 38: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 39: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 43: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 44: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 49: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 50: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 54: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 55: Concatenation with unsized literal; will interpret as 32 bits
+Analyzing Verilog file "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/mainModule.v" into library work
+Analyzing Verilog file "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/testMain.v" into library work
+Analyzing Verilog file "D:/setup_xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 32: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 34: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 37: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 38: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 39: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 43: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 44: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 49: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 50: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 54: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/control_unit.v" Line 55: Concatenation with unsized literal; will interpret as 32 bits
+Completed static elaboration
+Compiling module control_unit
+Compiling module fetch
+Compiling module s_IF_ID
+Compiling module decode
+Compiling module s_ID_EX
+Compiling module ALU_Control
+Compiling module ALU
+Compiling module Execute
+Compiling module s_EX_MEM
+Compiling module DataMemoryPipline
+Compiling module s_MEM_WB
+Compiling module writeBackPipe
+Compiling module mainModule
+Compiling module testMain
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 15 Verilog Units
+Built simulation executable C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/testMain_isim_beh.exe
+Fuse Memory Usage: 28344 KB
+Fuse CPU Usage: 546 ms

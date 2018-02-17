@@ -1,0 +1,21 @@
+
+
+
+// Instantiate the module
+decode instance_name (
+    .instruction(instruction), 
+    .writeReg(writeReg), 
+    .writeData(writeData), 
+    .adderFetch(adderFetch), 
+    .regWrite(regWrite), 
+    .clk(clk), 
+    .adderFetchOut(adderFetchOut), 
+    .rd1(rd1), 
+    .rd2(rd2), 
+    .ins1(ins1), 
+    .ins2(ins2), 
+    .insOut(insOut), 
+    .signEx(signEx)
+    );
+
+

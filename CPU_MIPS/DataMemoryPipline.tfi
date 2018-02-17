@@ -1,0 +1,18 @@
+
+
+
+// Instantiate the module
+DataMemoryPipline instance_name (
+    .zero(zero), 
+    .branch(branch), 
+    .memRead(memRead), 
+    .memWrite(memWrite), 
+    .readData2Reg(readData2Reg), 
+    .aluRes(aluRes), 
+    .clk(clk), 
+    .pc_src(pc_src), 
+    .readData(readData), 
+    .aluResOut(aluResOut)
+    );
+
+

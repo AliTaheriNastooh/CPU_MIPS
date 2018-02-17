@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+s_IF_ID instance_name (
+    .npc(npc), 
+    .instr(instr), 
+    .npcout(npcout), 
+    .instrout(instrout)
+    );
+
+

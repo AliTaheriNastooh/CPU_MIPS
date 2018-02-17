@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj session1 -o E:/az_computer_arcituctukre/session1/decode.tfi -lib work E:/az_computer_arcituctukre/session1//decode.v -module decode -template D:/setup_xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

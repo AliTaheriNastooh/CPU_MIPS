@@ -1,0 +1,17 @@
+
+
+
+// Instantiate the module
+s_MEM_WB instance_name (
+    .control_wb_in(control_wb_in), 
+    .read_data_in(read_data_in), 
+    .alu_result_in(alu_result_in), 
+    .write_reg_in(write_reg_in), 
+    .clk(clk), 
+    .mem_control_wb(mem_control_wb), 
+    .read_data(read_data), 
+    .mem_alu_result(mem_alu_result), 
+    .mem_write_reg(mem_write_reg)
+    );
+
+

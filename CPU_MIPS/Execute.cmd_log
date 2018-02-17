@@ -1,0 +1,13 @@
+xst -intstyle ise -ifn "E:/az_computer_arcituctukre/session1/Execute.xst" -ofn "E:/az_computer_arcituctukre/session1/Execute.syr" 
+xst -intstyle ise -ifn "E:/az_computer_arcituctukre/session1/Execute.xst" -ofn "E:/az_computer_arcituctukre/session1/Execute.syr" 
+xst -intstyle ise -ifn "E:/az_computer_arcituctukre/session1/Execute.xst" -ofn "E:/az_computer_arcituctukre/session1/Execute.syr" 
+xst -intstyle ise -ifn "E:/az_computer_arcituctukre/session1/Execute.xst" -ofn "E:/az_computer_arcituctukre/session1/Execute.syr" 
+xst -intstyle ise -ifn "E:/az_computer_arcituctukre/session1/Execute.xst" -ofn "E:/az_computer_arcituctukre/session1/Execute.syr" 
+xst -intstyle ise -ifn "E:/az_computer_arcituctukre/session1/Execute.xst" -ofn "E:/az_computer_arcituctukre/session1/Execute.syr" 
+xst -intstyle ise -ifn "E:/az_computer_arcituctukre/session1/Execute.xst" -ofn "E:/az_computer_arcituctukre/session1/Execute.syr" 
+xst -intstyle ise -ifn "E:/az_computer_arcituctukre/session1/Execute.xst" -ofn "E:/az_computer_arcituctukre/session1/Execute.syr" 
+xst -intstyle ise -ifn "E:/az_computer_arcituctukre/session1/Execute.xst" -ofn "E:/az_computer_arcituctukre/session1/Execute.syr" 
+xst -intstyle ise -ifn "E:/az_computer_arcituctukre/session1/Execute.xst" -ofn "E:/az_computer_arcituctukre/session1/Execute.syr" 
+xst -intstyle ise -ifn "E:/az_computer_arcituctukre/session1/Execute.xst" -ofn "E:/az_computer_arcituctukre/session1/Execute.syr" 
+xst -intstyle ise -ifn "E:/az_computer_arcituctukre/session1/Execute.xst" -ofn "E:/az_computer_arcituctukre/session1/Execute.syr" 
+vhdtdtfi -lang verilog -prj session1 -o E:/az_computer_arcituctukre/session1/Execute.tfi -lib work E:/az_computer_arcituctukre/session1//Execute.v -module Execute -template D:/setup_xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
