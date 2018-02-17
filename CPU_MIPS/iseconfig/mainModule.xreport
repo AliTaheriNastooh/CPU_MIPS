@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2018-02-16T11:18:49</DateModified>
+  <DateModified>2018-02-17T23:17:04</DateModified>
   <ModuleName>mainModule</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS/iseconfig/mainModule.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU MIPS\</ImplementationReportsDirectory>
+  <SavedFilePath>C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU_MIPS/iseconfig/mainModule.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/ASUS/Desktop/My Project/CPU - computerArtituchtoreLab/CPU_MIPS\</ImplementationReportsDirectory>
   <DateInitialized>2017-11-01T08:52:08</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
